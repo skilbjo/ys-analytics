@@ -1,0 +1,8 @@
+# Local Data
+data/
+
+# Mac
+.DS_Store
+
+# Tableau Files
+*.twb
